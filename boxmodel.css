@@ -1,0 +1,18 @@
+#rojo{
+    height: 300px;/*Alto*/
+    width: 400px;/*Ancho*/
+    background-color:#ff0000;/*Hexagesimal*/
+    font-size:32px;/*Tamaño de la fuente*/
+    border:15px solid cadetblue ;
+    padding: 50px ;
+    margin: auto;/*Centra el objeto en la pàgina cuando uso auto*/
+    color:burlywood;/*color de texto*/
+    text-align: center;/*centra el texto horizontalmente*/   
+}
+
+#azul{
+    height: 300px;/*Alto*/
+    width: 400px;/*Ancho*/
+    background-color:rgb(0, 0, 255);/*RGB*/
+    font-size:32px;
+}

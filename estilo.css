@@ -1,0 +1,12 @@
+body{
+    background-color: coral;
+}
+h2{
+    color: green;
+}
+.nuevaFuente{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#cambioBolder{
+    font-weight:900;
+}
